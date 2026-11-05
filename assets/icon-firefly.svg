@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="流萤 icon">
+<title>流萤 icon</title><defs>
+<linearGradient id="ibg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A1420"/><stop offset="100%" stop-color="#04070E"/></linearGradient>
+<radialGradient id="iglow" cx="50%" cy="55%" r="55%"><stop offset="0%" stop-color="#FFC27A" stop-opacity=".20"/><stop offset="60%" stop-color="#2DD4BF" stop-opacity=".07"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<radialGradient id="ic-glow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#7DF9C4" stop-opacity=".20"/><stop offset="45%" stop-color="#2DD4BF" stop-opacity=".07"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<linearGradient id="ic-wing" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#C9FFEF" stop-opacity=".50"/><stop offset="60%" stop-color="#5EEAD4" stop-opacity=".20"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient>
+<linearGradient id="ic-elytra" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#7DF9C4" stop-opacity=".64"/><stop offset="70%" stop-color="#2DD4BF" stop-opacity=".36"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity=".15"/></linearGradient>
+<linearGradient id="ic-body" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#E9FFF9"/><stop offset="38%" stop-color="#7DF9C4"/><stop offset="74%" stop-color="#FFC27A" stop-opacity=".92"/><stop offset="100%" stop-color="#FFC27A"/></linearGradient>
+<radialGradient id="ic-tail" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FFF6DE" stop-opacity="1"/><stop offset="26%" stop-color="#FFC27A" stop-opacity=".72"/><stop offset="58%" stop-color="#FFC27A" stop-opacity=".24"/><stop offset="100%" stop-color="#FFC27A" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="62" height="62" rx="16" fill="url(#ibg)" stroke="#1B3A3B"/><rect x="1" y="1" width="62" height="62" rx="16" fill="url(#iglow)"/>
+<g transform="translate(32 32) rotate(0) scale(0.19)">
+<circle cx="0" cy="40" r="148" fill="url(#ic-glow)" opacity=".62"/>
+
+<g fill="none" stroke="#7DF9C4" stroke-opacity=".55" stroke-width="1.2" stroke-linecap="round"><path d="M -13 -32 L -34 -26 L -46 -31"/><path d="M 13 -32 L 34 -26 L 46 -31"/><path d="M -12 -18 L -38 -10 L -51 -14"/><path d="M 12 -18 L 38 -10 L 51 -14"/><path d="M -11 -4 L -32 6 L -43 4"/><path d="M 11 -4 L 32 6 L 43 4"/></g>
+<path d="M -2 -16 C -32 -23 -78 -5 -102 14 C -82 27 -44 25 -6 8 Z" fill="url(#ic-wing)" stroke="#7DF9C4" stroke-opacity=".46" stroke-width=".9"/>
+<path d="M 2 -16 C 32 -23 78 -5 102 14 C 82 27 44 25 6 8 Z" fill="url(#ic-wing)" stroke="#7DF9C4" stroke-opacity=".46" stroke-width=".9"/>
+<ellipse cx="0" cy="20" rx="10.5" ry="38" fill="url(#ic-body)"/>
+<path d="M -10 8 Q 0 12 10 8 M -10 19 Q 0 23 10 19 M -9 30 Q 0 34 9 30" fill="none" stroke="#E9FFF9" stroke-opacity=".30" stroke-width=".9"/>
+<path d="M -5 -30 C -22 -25 -30 2 -22 34 C -18 48 -9 41 -7 24 L -5 -4 Z" fill="url(#ic-elytra)" stroke="#7DF9C4" stroke-opacity=".86" stroke-width="1.1"/>
+<path d="M 5 -30 C 22 -25 30 2 22 34 C 18 48 9 41 7 24 L 5 -4 Z" fill="url(#ic-elytra)" stroke="#7DF9C4" stroke-opacity=".86" stroke-width="1.1"/>
+<g fill="none" stroke="#7DF9C4" stroke-opacity=".30" stroke-width=".7"><path d="M -8 -24 C -15 -8 -17 14 -13 30"/><path d="M 8 -24 C 15 -8 17 14 13 30"/></g>
+<path d="M -15 -41 Q 0 -49 15 -41 L 12 -20 Q 0 -14 -12 -20 Z" fill="#7DF9C4" opacity=".94"/><path d="M -15 -41 Q 0 -49 15 -41" fill="none" stroke="#E9FFF9" stroke-opacity=".25"/>
+<circle cx="0" cy="-50" r="8.2" fill="#7DF9C4"/><circle cx="0" cy="-50" r="8.2" fill="none" stroke="#E9FFF9" stroke-opacity=".22"/>
+<path d="M -4 -55 C -8 -64 -13 -68 -18 -67" fill="none" stroke="#7DF9C4" stroke-width="1.3" stroke-linecap="round" opacity=".95"/><path d="M 4 -55 C 8 -64 13 -68 18 -67" fill="none" stroke="#7DF9C4" stroke-width="1.3" stroke-linecap="round" opacity=".95"/>
+<circle cx="0" cy="52" r="58" fill="url(#ic-tail)" opacity=".95"/>
+<ellipse cx="0" cy="51" rx="7.8" ry="10" fill="#FFF6DE" opacity=".98"/>
+<path d="M -9 37 Q 0 41 9 37 M -9 46 Q 0 50 9 46" fill="none" stroke="#FFC27A" stroke-width="1.3" opacity=".95"/>
+<circle cx="0" cy="53" r="2.6" fill="#FFFFFF" opacity=".9"/>
+</g>
+</svg>

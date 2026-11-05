@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" width="440" height="300" role="img" aria-label="流萤 角色档案卡">
+<title>流萤 · OPERATOR FILE</title><defs>
+<linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A1420"/><stop offset="100%" stop-color="#07101A"/></linearGradient>
+<radialGradient id="pcorner" cx="100%" cy="0%" r="80%"><stop offset="0%" stop-color="#2DD4BF" stop-opacity=".18"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<pattern id="pgrid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M 22 0 L 0 0 0 22" fill="none" stroke="#7DF9C4" stroke-opacity=".04" stroke-width=".6"/></pattern>
+<radialGradient id="pc-glow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#7DF9C4" stop-opacity=".20"/><stop offset="45%" stop-color="#2DD4BF" stop-opacity=".07"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<linearGradient id="pc-wing" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#C9FFEF" stop-opacity=".50"/><stop offset="60%" stop-color="#5EEAD4" stop-opacity=".20"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity="0"/></linearGradient>
+<linearGradient id="pc-elytra" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#7DF9C4" stop-opacity=".64"/><stop offset="70%" stop-color="#2DD4BF" stop-opacity=".36"/><stop offset="100%" stop-color="#2DD4BF" stop-opacity=".15"/></linearGradient>
+<linearGradient id="pc-body" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#E9FFF9"/><stop offset="38%" stop-color="#7DF9C4"/><stop offset="74%" stop-color="#FFC27A" stop-opacity=".92"/><stop offset="100%" stop-color="#FFC27A"/></linearGradient>
+<radialGradient id="pc-tail" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#FFF6DE" stop-opacity="1"/><stop offset="26%" stop-color="#FFC27A" stop-opacity=".72"/><stop offset="58%" stop-color="#FFC27A" stop-opacity=".24"/><stop offset="100%" stop-color="#FFC27A" stop-opacity="0"/></radialGradient></defs>
+<rect x=".75" y=".75" width="438.5" height="298.5" rx="18" fill="url(#pbg)" stroke="#1B3A3B"/>
+<rect x=".75" y=".75" width="438.5" height="298.5" rx="18" fill="url(#pgrid)"/><rect x=".75" y=".75" width="438.5" height="298.5" rx="18" fill="url(#pcorner)"/>
+<g fill="none" stroke="#7DF9C4" stroke-opacity=".38" stroke-width="1.1"><path d="M 14 30 L 14 14 L 30 14"/><path d="M 410 14 L 426 14 L 426 30"/><path d="M 14 270 L 14 286 L 30 286"/><path d="M 410 286 L 426 286 L 426 270"/></g>
+<text x="28" y="35" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="2.2" fill="#7DF9C4">OPERATOR FILE</text>
+<text x="412" y="35" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="2" fill="#A7C4CA">NO. <tspan fill="#FFC27A">04</tspan></text>
+<line x1="28" y1="49" x2="412" y2="49" stroke="#1B3A3B"/>
+<g transform="translate(358 112) rotate(0) scale(0.36)">
+<circle cx="0" cy="40" r="148" fill="url(#pc-glow)" opacity=".62"/>
+
+<g fill="none" stroke="#7DF9C4" stroke-opacity=".55" stroke-width="1.2" stroke-linecap="round"><path d="M -13 -32 L -34 -26 L -46 -31"/><path d="M 13 -32 L 34 -26 L 46 -31"/><path d="M -12 -18 L -38 -10 L -51 -14"/><path d="M 12 -18 L 38 -10 L 51 -14"/><path d="M -11 -4 L -32 6 L -43 4"/><path d="M 11 -4 L 32 6 L 43 4"/></g>
+<path d="M -2 -16 C -32 -23 -78 -5 -102 14 C -82 27 -44 25 -6 8 Z" fill="url(#pc-wing)" stroke="#7DF9C4" stroke-opacity=".46" stroke-width=".9"/>
+<path d="M 2 -16 C 32 -23 78 -5 102 14 C 82 27 44 25 6 8 Z" fill="url(#pc-wing)" stroke="#7DF9C4" stroke-opacity=".46" stroke-width=".9"/>
+<ellipse cx="0" cy="20" rx="10.5" ry="38" fill="url(#pc-body)"/>
+<path d="M -10 8 Q 0 12 10 8 M -10 19 Q 0 23 10 19 M -9 30 Q 0 34 9 30" fill="none" stroke="#E9FFF9" stroke-opacity=".30" stroke-width=".9"/>
+<path d="M -5 -30 C -22 -25 -30 2 -22 34 C -18 48 -9 41 -7 24 L -5 -4 Z" fill="url(#pc-elytra)" stroke="#7DF9C4" stroke-opacity=".86" stroke-width="1.1"/>
+<path d="M 5 -30 C 22 -25 30 2 22 34 C 18 48 9 41 7 24 L 5 -4 Z" fill="url(#pc-elytra)" stroke="#7DF9C4" stroke-opacity=".86" stroke-width="1.1"/>
+<g fill="none" stroke="#7DF9C4" stroke-opacity=".30" stroke-width=".7"><path d="M -8 -24 C -15 -8 -17 14 -13 30"/><path d="M 8 -24 C 15 -8 17 14 13 30"/></g>
+<path d="M -15 -41 Q 0 -49 15 -41 L 12 -20 Q 0 -14 -12 -20 Z" fill="#7DF9C4" opacity=".94"/><path d="M -15 -41 Q 0 -49 15 -41" fill="none" stroke="#E9FFF9" stroke-opacity=".25"/>
+<circle cx="0" cy="-50" r="8.2" fill="#7DF9C4"/><circle cx="0" cy="-50" r="8.2" fill="none" stroke="#E9FFF9" stroke-opacity=".22"/>
+<path d="M -4 -55 C -8 -64 -13 -68 -18 -67" fill="none" stroke="#7DF9C4" stroke-width="1.3" stroke-linecap="round" opacity=".95"/><path d="M 4 -55 C 8 -64 13 -68 18 -67" fill="none" stroke="#7DF9C4" stroke-width="1.3" stroke-linecap="round" opacity=".95"/>
+<circle cx="0" cy="52" r="58" fill="url(#pc-tail)" opacity=".95"/>
+<ellipse cx="0" cy="51" rx="7.8" ry="10" fill="#FFF6DE" opacity=".98"/>
+<path d="M -9 37 Q 0 41 9 37 M -9 46 Q 0 50 9 46" fill="none" stroke="#FFC27A" stroke-width="1.3" opacity=".95"/>
+<circle cx="0" cy="53" r="2.6" fill="#FFFFFF" opacity=".9"/>
+</g>
+<text x="28" y="105" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="700" letter-spacing="4" fill="#E9FFF9">流萤</text>
+<text x="30" y="129" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" letter-spacing="5" fill="#7DF9C4">FIREFLY</text>
+<text x="28" y="152" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" font-weight="500" letter-spacing="1.4" fill="#C3D9DD">STELLARON HUNTER / GLAMOTH</text>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="10" font-weight="600" letter-spacing="1.2" fill="#C3D9DD"><text x="28" y="181">身份</text><text x="28" y="205">命途</text><text x="28" y="229">故乡</text><text x="28" y="253">信号</text></g>
+<g font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#E9FFF9"><text x="80" y="181">星核猎手</text><text x="80" y="205">毁灭 · 火</text><text x="80" y="229">格拉默</text><text x="80" y="253">萤火频率 · 04</text></g>
+<text x="316" y="180" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="600" letter-spacing="1.6" fill="#C3D9DD">SIGNAL</text>
+<g fill="#7DF9C4" opacity=".55"><rect x="318" y="220" width="2.2" height="6" rx="1"/><rect x="325" y="214" width="2.2" height="12" rx="1"/><rect x="332" y="208" width="2.2" height="18" rx="1"/><rect x="339" y="217" width="2.2" height="9" rx="1"/><rect x="346" y="204" width="2.2" height="22" rx="1"/><rect x="353" y="211" width="2.2" height="15" rx="1"/><rect x="360" y="200" width="2.2" height="26" rx="1"/><rect x="367" y="215" width="2.2" height="11" rx="1"/><rect x="374" y="207" width="2.2" height="19" rx="1"/><rect x="381" y="218" width="2.2" height="8" rx="1"/><rect x="388" y="212" width="2.2" height="14" rx="1"/><rect x="395" y="216" width="2.2" height="10" rx="1"/></g>
+<text x="316" y="250" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="9" font-weight="600" letter-spacing="1.4" fill="#C3D9DD" opacity=".9">CH · 04</text>
+<text x="28" y="279" font-family="'Noto Sans SC','Microsoft YaHei','PingFang SC','Helvetica Neue',Arial,sans-serif" font-size="11" fill="#C3D9DD">“飞萤扑火，向死而生。”</text>
+</svg>

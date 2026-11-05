@@ -1,0 +1,16 @@
+{
+  "login": "YOUR_GITHUB_USERNAME",
+  "name": "",
+  "totalContributions": 0,
+  "repos": 0,
+  "stars": 0,
+  "followers": 0,
+  "activeDays": 0,
+  "currentStreak": 0,
+  "longestStreak": 0,
+  "weeks": [],
+  "languages": [],
+  "languageBytes": 0,
+  "updated": "2026-11-05",
+  "demo": false
+}
