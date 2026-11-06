@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Firefly_henshin.gif">
-  <img width="100%" src="assets/Firefly_henshin.gif" alt="流萤 · FIREFLY — 飞萤扑火，向死而生">
-</picture>
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&pause=1200&color=2DD4BF&center=true&vCenter=true&width=900&lines=%E9%A3%9E%E8%90%A4%E6%89%91%E7%81%AB%EF%BC%8C%E5%90%91%E6%AD%BB%E8%80%8C%E7%94%9F%E3%80%82%3B%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%98%9F%E6%B5%B7%E4%B9%8B%E9%97%B4%EF%BC%8C%E7%95%99%E4%B8%8B%E8%87%AA%E5%B7%B1%E7%9A%84%E8%88%AA%E8%BF%B9%E3%80%82%3BBuilding%20things%20that%20outlive%20the%20night." alt="typing">
